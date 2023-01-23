@@ -7,6 +7,7 @@ Welcome to Sanatanaya, your ultimate destination for all things yoga. Our websit
 
 2) Azure Static Web Apps
 
+
 ##Azure Link : https://yellow-coast-0bab23800.2.azurestaticapps.net/
 
 
